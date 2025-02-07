@@ -122,9 +122,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="ILRepack.targets" />
-    <Content Include="ItemManager.dll" />
-    <Content Include="PieceManager.dll" />
-    <Content Include="ServerSync.dll" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
